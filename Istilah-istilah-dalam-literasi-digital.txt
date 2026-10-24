@@ -1,1 +1,221 @@
+50 Istilah Literasi Digital yang Berkaitan dengan Pembuatan Buku dan Jurnal
 
+Pendahuluan
+
+Di era digital, perkembangan teknologi informasi memberikan kemudahan bagi masyarakat dalam mencari informasi, menulis karya ilmiah, membuat buku, serta menerbitkan jurnal secara online. Proses yang sebelumnya dilakukan secara manual kini dapat dilakukan dengan bantuan berbagai aplikasi dan platform digital.
+
+Literasi digital menjadi kemampuan penting bagi mahasiswa untuk memahami, menggunakan, mengevaluasi, dan menghasilkan informasi secara bijak melalui teknologi digital.
+
+Dalam proses pembuatan buku dan jurnal, terdapat berbagai istilah yang perlu dipahami agar kegiatan menulis dan publikasi dapat dilakukan secara efektif, kreatif, serta bertanggung jawab.
+
+Berikut adalah 50 istilah literasi digital yang berkaitan dengan pembuatan buku dan jurnal.
+
+A. Istilah dalam Penulisan Buku Digital
+
+1. E-Book (Electronic Book)
+
+E-book adalah buku dalam bentuk digital yang dapat dibaca melalui perangkat elektronik seperti laptop, smartphone, tablet, atau e-reader.
+
+2. E-Book Creator
+
+E-book creator adalah aplikasi atau perangkat lunak yang digunakan untuk membuat buku digital dengan tampilan menarik dan interaktif.
+
+3. Digital Publishing
+
+Digital publishing adalah proses menerbitkan karya tulis, buku, atau jurnal dalam format digital melalui internet atau platform elektronik.
+
+4. ISBN (International Standard Book Number)
+
+ISBN adalah nomor identifikasi standar internasional yang digunakan untuk mengidentifikasi buku atau edisi tertentu dari sebuah buku.
+
+5. EPUB (Electronic Publication)
+
+EPUB adalah format buku digital yang memungkinkan teks dan tampilan buku menyesuaikan ukuran layar perangkat pembaca.
+
+6. PDF (Portable Document Format)
+
+PDF adalah format dokumen digital yang mempertahankan tata letak, teks, gambar, dan format dokumen agar tetap konsisten saat dibuka di berbagai perangkat.
+
+7. Layout
+
+Layout adalah pengaturan tata letak teks, gambar, judul, dan elemen lainnya dalam sebuah buku agar terlihat rapi dan mudah dibaca.
+
+8. Typography
+
+Typography adalah seni dan teknik mengatur huruf, ukuran font, jarak, serta bentuk tulisan agar nyaman dibaca.
+
+9. Cover Design
+
+Cover design adalah proses merancang sampul buku yang mencakup judul, ilustrasi, warna, dan identitas penulis.
+
+10. Hyperlink
+
+Hyperlink adalah tautan digital yang menghubungkan satu halaman, dokumen, atau sumber informasi dengan sumber lainnya.
+
+B. Istilah dalam Penulisan Jurnal Ilmiah
+
+11. Jurnal Ilmiah
+
+Jurnal ilmiah adalah publikasi yang memuat artikel hasil penelitian, kajian ilmiah, atau pemikiran akademik yang disusun secara sistematis.
+
+12. Artikel Ilmiah
+
+Artikel ilmiah adalah karya tulis yang membahas suatu permasalahan berdasarkan penelitian, data, teori, atau kajian ilmiah.
+
+13. Abstract (Abstrak)
+
+Abstrak adalah ringkasan singkat dari sebuah artikel ilmiah yang mencakup tujuan, metode, hasil, dan kesimpulan penelitian.
+
+14. Keywords (Kata Kunci)
+
+Kata kunci adalah istilah penting yang menggambarkan topik utama artikel dan membantu pembaca menemukan artikel melalui mesin pencari.
+
+15. DOI (Digital Object Identifier)
+
+DOI adalah identitas digital permanen yang digunakan untuk mengidentifikasi dan menemukan dokumen ilmiah, seperti artikel jurnal.
+
+16. Peer Review
+
+Peer review adalah proses penilaian karya ilmiah oleh ahli atau peneliti lain sebelum artikel diterbitkan.
+
+17. Open Access
+
+Open access adalah model publikasi yang memungkinkan masyarakat mengakses karya ilmiah secara bebas melalui internet.
+
+18. Citation (Sitasi)
+
+Sitasi adalah penyebutan sumber informasi yang digunakan dalam suatu karya tulis untuk menghargai penulis asli dan mendukung argumen.
+
+19. Reference (Referensi)
+
+Referensi adalah daftar sumber informasi yang digunakan sebagai dasar atau pendukung dalam penulisan karya ilmiah.
+
+20. Bibliography (Daftar Pustaka)
+
+Daftar pustaka adalah kumpulan sumber yang dicantumkan pada bagian akhir karya tulis sesuai dengan aturan penulisan yang digunakan.
+
+C. Istilah Aplikasi dan Teknologi Penulisan Digital
+
+21. Microsoft Word
+
+Microsoft Word adalah aplikasi pengolah kata yang digunakan untuk membuat, mengedit, dan memformat dokumen, termasuk buku dan jurnal.
+
+22. Google Docs
+
+Google Docs adalah aplikasi pengolah kata berbasis cloud yang memungkinkan pengguna menulis dan mengedit dokumen secara online.
+
+23. Google Scholar
+
+Google Scholar adalah mesin pencari khusus untuk menemukan artikel ilmiah, jurnal, buku akademik, dan berbagai sumber penelitian.
+
+24. Mendeley
+
+Mendeley adalah aplikasi manajemen referensi yang membantu penulis mengatur sumber penelitian dan membuat sitasi secara otomatis.
+
+25. Zotero
+
+Zotero adalah perangkat lunak pengelola referensi yang membantu mengumpulkan, menyimpan, dan mengorganisasi sumber akademik.
+
+26. Grammarly
+
+Grammarly adalah alat bantu penulisan digital yang dapat membantu memeriksa tata bahasa, ejaan, dan kejelasan tulisan, terutama dalam bahasa Inggris.
+
+27. Turnitin
+
+Turnitin adalah perangkat lunak yang digunakan untuk membandingkan teks suatu dokumen dengan sumber lain guna membantu mendeteksi kemiripan tulisan.
+
+28. Cloud Storage
+
+Cloud storage adalah layanan penyimpanan data secara online yang memungkinkan dokumen diakses melalui internet.
+
+29. Collaborative Writing
+
+Collaborative writing adalah kegiatan menulis bersama yang melibatkan dua orang atau lebih melalui platform digital.
+
+30. Version History
+
+Version history adalah fitur yang memungkinkan pengguna melihat dan memulihkan versi dokumen sebelumnya.
+
+D. Istilah Literasi Digital dan Etika Akademik
+
+31. Digital Literacy (Literasi Digital)
+
+Literasi digital adalah kemampuan menggunakan teknologi digital untuk mencari, memahami, mengevaluasi, membuat, dan membagikan informasi secara bijak.
+
+32. Information Literacy (Literasi Informasi)
+
+Literasi informasi adalah kemampuan mengenali kebutuhan informasi, mencari sumber yang tepat, serta mengevaluasi dan menggunakan informasi secara efektif.
+
+33. Copyright (Hak Cipta)
+
+Hak cipta adalah hak hukum yang melindungi karya seseorang, seperti buku, artikel, gambar, dan karya digital lainnya.
+
+34. Plagiarism (Plagiarisme)
+
+Plagiarisme adalah tindakan menggunakan ide, tulisan, atau karya orang lain tanpa memberikan pengakuan atau atribusi yang sesuai.
+
+35. Paraphrasing (Parafrase)
+
+Parafrase adalah kegiatan menyampaikan kembali gagasan dari sumber lain menggunakan susunan kata sendiri tanpa mengubah makna aslinya.
+
+36. Creative Commons
+
+Creative Commons adalah jenis lisensi yang memungkinkan pencipta memberikan izin penggunaan karyanya kepada orang lain dengan ketentuan tertentu.
+
+37. Academic Integrity (Integritas Akademik)
+
+Integritas akademik adalah prinsip kejujuran, tanggung jawab, dan etika dalam kegiatan pendidikan serta penelitian.
+
+38. Fake News (Berita Palsu)
+
+Fake news adalah informasi yang tidak benar atau menyesatkan dan disebarkan seolah-olah merupakan fakta.
+
+39. Digital Footprint (Jejak Digital)
+
+Jejak digital adalah rekaman aktivitas seseorang di internet, termasuk unggahan, komentar, dan publikasi digital.
+
+40. Fact-Checking (Pemeriksaan Fakta)
+
+Fact-checking adalah proses memeriksa kebenaran informasi dengan membandingkannya terhadap sumber yang kredibel dan bukti yang tersedia.
+
+E. Istilah Kecerdasan Buatan (AI) dalam Pembuatan Buku dan Jurnal
+
+41. Artificial Intelligence (AI)
+
+Artificial Intelligence atau kecerdasan buatan adalah teknologi yang memungkinkan sistem komputer melakukan tugas yang biasanya membutuhkan kemampuan manusia, seperti memahami bahasa dan menganalisis data.
+
+42. Generative AI
+
+Generative AI adalah teknologi AI yang mampu menghasilkan konten baru, seperti teks, gambar, audio, dan video berdasarkan pola yang dipelajari dari data.
+
+43. Chatbot AI
+
+Chatbot AI adalah program berbasis kecerdasan buatan yang dapat berinteraksi dengan pengguna melalui percakapan.
+
+44. Prompt
+
+Prompt adalah instruksi atau pertanyaan yang diberikan kepada AI untuk menghasilkan respons atau menyelesaikan tugas tertentu.
+
+45. Prompt Engineering
+
+Prompt engineering adalah teknik menyusun instruksi yang jelas dan terarah agar AI menghasilkan jawaban sesuai kebutuhan pengguna.
+
+46. Large Language Model (LLM)
+
+LLM adalah model kecerdasan buatan yang dilatih menggunakan data teks dalam jumlah besar untuk memahami dan menghasilkan bahasa manusia.
+
+47. AI Writing Assistant
+
+AI writing assistant adalah alat bantu penulisan berbasis AI yang dapat membantu menyusun, memperbaiki, merangkum, dan mengembangkan tulisan.
+
+48. AI Hallucination
+
+AI hallucination adalah kondisi ketika AI menghasilkan informasi yang terdengar meyakinkan, tetapi sebenarnya tidak akurat atau tidak didukung bukti.
+
+49. AI Content Detection
+
+AI content detection adalah teknologi yang digunakan untuk memperkirakan apakah suatu teks memiliki karakteristik yang berkaitan dengan tulisan hasil AI.
+
+50. Human-AI Collaboration
+
+Human-AI collaboration adalah kerja sama antara manusia dan AI dalam menyelesaikan tugas, seperti menyusun buku, mengembangkan ide penelitian, atau memperbaiki tulisan.
